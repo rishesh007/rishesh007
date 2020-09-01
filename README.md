@@ -10,6 +10,7 @@ I am Rishesh Agarwal, a Self-taught Full Stack Developer and Programmer.
 - 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
 
 ![Rishesh's github stats](https://github-readme-stats.vercel.app/api?username=rishesh007&hide=stars&show_icons=true&count_private=true)
+
 ![makes-people-smile](https://img.shields.io/badge/MAKES%20PEOPLE-SMILE-orange?style=for-the-badge&logo=Ello)
 ![Vscode](https://img.shields.io/badge/VSCODE%20-Power%20User%20-gray.svg?colorA=655BE1&colorB=4F44D6&logo=visual-studio-code&style=for-the-badge)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
