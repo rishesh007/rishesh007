@@ -1,4 +1,4 @@
-<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="devops.png" width="300">
+<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/rishesh007/rishesh007/blob/master/devops.png" width="300">
 
 I am Rishesh Agarwal, a Self-taught Full Stack Developer and Programmer. 
 
