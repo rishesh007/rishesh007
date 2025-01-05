@@ -1,16 +1,26 @@
-<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/rishesh007/rishesh007/blob/master/devops.png" width="300">
+<h2> Hello, World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align='right' src="https://github.com/rishesh007/rishesh007/blob/master/backend.png" width="300">
 
-I am Rishesh Agarwal, a Self-taught Full Stack Developer and Programmer. 
+I am Rishesh Agarwal, a Backend Developer passionate about building robust, scalable, and efficient systems. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishesh-agarwal/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:risheshagarwala1@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4njIZdgAAAAJ&hl=en) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_rishesh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishesh-agarwal/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:risheshagarwala1@gmail.com) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4njIZdgAAAAJ&hl=en) 
 
+- 💻 I specialize in building high-performance **backend systems** using **Go**, **gRPC**, **REST APIs**, and **distributed systems**.
+- 📈 Skilled in designing **event-driven architectures**, developing **microservices**, and optimizing backend performance.
+- 💡 Tools and technologies:  
+  - **Programming Languages:** Go, Python, Java, C++.  
+  - **Frameworks:** Gin, Echo, Django.  
+  - **Databases:** PostgreSQL, MySQL, MongoDB, Redis.  
+  - **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, GCP.  
+  - **APIs:** GraphQL, REST, gRPC.  
+  - **Monitoring & Debugging:** Prometheus, Grafana, Jaeger.  
+- ⚡ Check out my [website](http://rishesh007.github.io/) for a deeper dive into my work!
+- 👯 I’m always open to collaborating on challenging backend projects, especially those involving distributed systems and scalable architectures.
 
-- 💻 I like to work on the frontend, backend, database and debugging of all types of application or websites. 
-- ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://rishesh007.github.io/). I m sure you will like my work!
-- 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
 
 ![Rishesh's github stats](https://github-readme-stats.vercel.app/api?username=rishesh007&hide=stars&show_icons=true&count_private=true)
 
-![makes-people-smile](https://img.shields.io/badge/MAKES%20PEOPLE-SMILE-orange?style=for-the-badge&logo=Ello)
-![Vscode](https://img.shields.io/badge/VSCODE%20-Power%20User%20-gray.svg?colorA=655BE1&colorB=4F44D6&logo=visual-studio-code&style=for-the-badge)
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+![Backend Developer](https://img.shields.io/badge/BACKEND-Developer-blue?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Scalable Solutions](https://img.shields.io/badge/SCALABLE-Solutions-green?style=for-the-badge&logo=GraphQL)
+![Powered by Innovation from India](https://img.shields.io/badge/POWERED%20BY-INNOVATION%20FROM%20INDIA-green?style=for-the-badge&logo=rocket&logoColor=white)
+
