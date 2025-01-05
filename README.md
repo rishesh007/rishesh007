@@ -1,5 +1,5 @@
 <h2> Hello, World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src="https://github.com/rishesh007/rishesh007/blob/master/backend.png" width="300">
+<img align='right' src="https://github.com/rishesh007/rishesh007/blob/master/backend.jpg" width="300">
 
 I am Rishesh Agarwal, a Backend Developer passionate about building robust, scalable, and efficient systems. 
 
